@@ -67,7 +67,7 @@ Put these command in the `\socialinfo` wrapper. Feel free to add `\\` when you w
 \socialinfo{
   \linkedin{christopheroger}
   \viadeo{christopheroger}
-  \github{darwiin}\\
+  \github{avatar}\\
   \smartphone{+687 123 456}
   \email{christophe.roger@mail.com}\\
   \address{2 Rue du quartier, 98765 Ville, Pays}\\
